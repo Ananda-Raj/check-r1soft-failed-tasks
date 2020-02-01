@@ -5,4 +5,4 @@ We have two files:
 
 check_r1soft_cdp.php -- Collect information from R1Soft server and write to a file.
 
-check-database-integrity.sh -- Push information results to slack.
+push_r1soft_cdp.sh -- Push information results to slack.
